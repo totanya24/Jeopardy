@@ -1,0 +1,66 @@
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+/* some colors you may find useful:
+  #115ff4
+  #060ce9
+  #28a200
+  #8d2ab5
+  #74119c
+*/
+
+h1{
+  background-color: white;
+  color: #060ce9;
+  text-align: center;
+  font-weight: bold;
+}
+#table{
+  margin-right: auto;
+  margin-left: auto;
+  align-content: center;
+  text-align: center;
+  font-size: small;
+  background-color: #060ce9;
+  color: white;
+  border-collapse: collapse;
+  position: relative;
+}
+#table th, #table td {
+  border: solid 1px white;
+  width: 12em;
+  padding: 1em;
+}
+th{
+  text-text-replace: uppercase;
+  font-family: 'Pacifico', sans-serif;
+  font-width: bold;
+  height: 4em;
+  text-shadow: #0a5380;
+
+}
+td{
+  height: 10em;
+  font-family: sans-serif;
+}
+td:hover{
+  cursor: pointer;
+}
+button{
+  background-color: #74119c;
+  color: white;
+  align-content: center;
+  text-align: center;
+  /*display: block;*/
+  margin-right: auto;
+  margin-left: auto;
+
+}
+#btn{
+  display: flex;
+}
